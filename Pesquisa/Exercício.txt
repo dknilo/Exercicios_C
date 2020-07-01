@@ -1,0 +1,11 @@
+Uma certa empresa fez uma pesquisa de mercado para saber se as pessoas gostaram ou não do seu último produto lançado. Para isto, coletou
+o sexo do entrevistado e a sua resposta (sim ou não). Sabendo que foram entrevistadas 150 pessoas, fazer um algoritmo que calcule e mostre ao
+final:
+
+• O número de pessoas que responderam sim;
+• O número de pessoas que responderam não;
+• A percentagem de pessoas do sexo feminino que responderam sim;
+• A percentagem de pessoas do sexo masculino que responderam não;
+
+Para a resposta SIM/NÃO. Utilize uma variável do tipo CHAR, que armazena S ou N, ou use uma variável do tipo INT que armazena 1 (para
+SIM) e 2 (para NÃO).

@@ -1,0 +1,6 @@
+Escrever uma função que receba como parâmetro duas strings, bem como um valor inteiro que representa uma posição. A função deve, portanto,
+inserir a segunda string na posição indicada da primeira.
+Escreva um programa que receba estas duas strings do usuário, o valor da posição desejada, e chame a função anteriormente implementada e
+exiba o resultado ao usuário na tela.
+Para imprimir na tela e tirar o print screen, mostre o resultado utilizando o seu primeiro nome como string 1 e o seu último nome como string
+2, e a posição de teste deverá ser o último digito do seu RU.

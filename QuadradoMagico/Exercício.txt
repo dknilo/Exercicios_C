@@ -1,0 +1,3 @@
+Dizemos que uma matriz quadrada inteira é um quadrado mágico se a soma dos elementos de cada linha, a soma dos elementos de cada coluna
+e a soma dos elementos das diagonais principal e secundária são todas iguais. Dada uma matriz quadrada dimensão MxM, verifique se ela é um
+quadrado mágico através de um algoritmo.

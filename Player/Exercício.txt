@@ -1,0 +1,15 @@
+Faça um algoritmo em linguagem C que emule as características de um player de músicas sendo executado em modo texto, via prompt de
+comando.
+
+1. Deve-se criar uma playlist das músicas utilizando uma lista encadeada. A lista encadeada poderá ser simples ou dupla, circular ou não
+circular. Fica a critério do aluno decidir.
+
+2. Deve-se armazenar o nome de cada música, do artista/banda e a duração da faixa. Para o armazenamento utilize uma estrutura heterogênea
+de dados.
+
+3. Para inserção dos dados, você pode criar uma leitura dos dados através de um menu na tela ou já deixá-los armazenados em um arquivo
+texto no seu computador e só carregar este arquivo ao executar o programa. Ou ambas soluções. Decida também como você irá implementar a
+inserção (no início, no fim ou no meio da lista encadeada);
+
+4. Deve existir um menu na tela. Este menu deve permitir a inserção de novas músicas (caso optado pela inserção manual de dados), deve ter
+a opção de listar todas as músicas da playlist (listagem de uma lista encadeada) na tela e encerrar o programa;
